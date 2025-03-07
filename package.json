@@ -1,0 +1,23 @@
+{
+  "name": "voces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macca050598/Voces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macca050598/Voces/issues"
+  },
+  "homepage": "https://github.com/Macca050598/Voces#readme",
+  "dependencies": {
+    "ask-sdk": "^2.14.0"
+  }
+}
